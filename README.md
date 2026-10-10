@@ -28,10 +28,10 @@ Private Repos sind nur für Mitglieder sichtbar. Namensschema und Workflow stehe
 
 | Repo                                                                                              | Wofür                                                              |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [`sartorius-gemba-walk-app`](https://github.com/ai-native-solutions/sartorius-gemba-walk-app)     | Guided Audit für Digitalisierung in Shop-Floor-Prozessen           |
-| [`sartorius-maintainance-app`](https://github.com/ai-native-solutions/sartorius-maintainance-app) | Instandhaltung: von der Meldung bis zur Umsetzung                  |
+| [`int-gemba-walk-app`](https://github.com/ai-native-solutions/int-gemba-walk-app)     | Guided Audit für Digitalisierung in Shop-Floor-Prozessen           |
+| [`int-maintenance-app`](https://github.com/ai-native-solutions/int-maintenance-app) | Instandhaltung: von der Meldung bis zur Umsetzung                  |
 | [`int-bestattungssoftware`](https://github.com/ai-native-solutions/int-bestattungssoftware)       | Internes Produkt — startet erst, wenn Beschreibung und Code stehen |
-| [`template-int-agents`](https://github.com/ai-native-solutions/template-int-agents)               | Template für interne Agent-Setups                                  |
+| [`int-template-agents`](https://github.com/ai-native-solutions/int-template-agents)               | Template für interne Agent-Setups                                  |
 | [`.github`](https://github.com/ai-native-solutions/.github)                                       | Org-Profil, Default-Dateien, Arbeitsabsprachen                     |
 
 ## Mitmachen (intern)
